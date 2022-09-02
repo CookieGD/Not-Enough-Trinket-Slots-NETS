@@ -1,2 +1,16 @@
 # Not-Enough-Trinket-Slots-NETS-
 An Add-on for the Trinkets mod, wich adds more slots for Trinkets to use.
+
+---------------
+
+How to install:
+1. Setup:
+    - Fabric Loader 0.12.7 or newer
+    - Minecraft 1.19(.x)
+    - Trinkets 3.4.x
+
+2. Mod only:
+    - Install the .jar file in your Mods folder
+
+3. Data Pack only:
+    - Install NETS_Data_Pack.zip and put it in the Datapacks folder
