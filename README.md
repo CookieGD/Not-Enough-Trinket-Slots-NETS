@@ -1,6 +1,8 @@
 # Not-Enough-Trinket-Slots-NETS-
 An Add-on for the Trinkets mod, wich adds more slots for Trinkets to use.
 
+(Depends on https://github.com/emilyploszaj/trinkets)
+
 ---------------
 
 How to install:
