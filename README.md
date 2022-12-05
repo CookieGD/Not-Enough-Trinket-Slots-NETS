@@ -16,3 +16,9 @@ How to install:
 
 3. Data Pack only:
     - Install NETS_Data_Pack.zip and put it in the Datapacks folder
+
+---------------
+
+Curseforge: https://www.curseforge.com/minecraft/mc-mods/not-enough-trinket-slots-nets
+
+Modrinth: https://modrinth.com/mod/nets
