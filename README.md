@@ -7,9 +7,9 @@ An Add-on for the Trinkets mod, wich adds more slots for Trinkets to use.
 
 How to install:
 1. Setup:
-    - Fabric Loader 0.12.7 or newer
-    - Minecraft 1.18(.x) or 1.19(.x)
-    - Trinkets 3.2.x (for 1.18.x) or 3.4.x (for 1.19.x)
+    - Fabric Loader 0.12.7 or newer (1.19.4+ require 0.14.21 or newer)
+    - Minecraft 1.18(.x), 1.19(.x) or 1.20(.x)
+    - Trinkets 3.2.x (for 1.18.x), 3.4.x (for 1.19.x), 3.6.0 (for 1.19.4) or 3.7.1 (for 1.20.x)
 
 2. Mod only:
     - Install the .jar file in your Mods folder
